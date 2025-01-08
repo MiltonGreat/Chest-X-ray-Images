@@ -2,34 +2,34 @@
 
 ### Problem Statement
 
-Heart disease remains a leading cause of death; early prediction can save lives.
+Detecting pneumonia and other abnormalities in chest X-rays can be time-intensive for radiologists.
 
 ### Solution Approach:
 
-Data: Heart Disease dataset with features like age, cholesterol, and blood pressure.
+Data: Chest X-ray images annotated for pneumonia and other diseases.
 
 Methods:
-
-- Trained Logistic Regression, Random Forest, and SVM models.
-- Conducted EDA to identify correlations (e.g., cholesterol levels with heart risk).
-- Evaluated models using ROC-AUC and precision-recall metrics.
-- Tools: Python (Scikit-learn, Matplotlib), Tableau.
+- Preprocessed images using resizing and normalization.
+- Built a Convolutional Neural Network (CNN) for classification.
+- Fine-tuned model using transfer learning.
+- Tools: TensorFlow, Keras, Python.
 
 ### Results
 
-Achieved 89% accuracy with Random Forest, highlighting high-risk patients.
+Achieved 94% accuracy in detecting pneumonia.
 
 ### Challenges
 
-Addressing class imbalance in the dataset.
+Managing image imbalances; resolved by augmenting underrepresented classes.
 
 ### Future Directions
 
-Incorporate time-series data for monitoring patient vitals.
+Extend the model to detect other respiratory diseases.
 
 ### Key Skills
 
-Predictive modeling, feature engineering, data visualization, Python.
+Deep learning, image preprocessing, CNNs, Python.
+
 
 ### Summary and Recommendations
 
