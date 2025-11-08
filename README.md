@@ -38,9 +38,9 @@ This project addresses not just the classification task, but this fundamental **
 - Metrics: Accuracy, precision, recall, F1-score.
 - Classification Report: Detailed analysis for each class (normal, bacterial pneumonia, viral pneumonia).
 
-### Key Findings:
+### Key Findings
 
-#### Model Performance & Governance Metrics
+##### Model Performance & Governance Metrics
 
 - Accuracy: 94%, indicating robust overall performance.
 - Precision & Recall: High scores across all classes (Normal, Bacterial, Viral), ensuring reliable predictions and minimizing both false positives and false negatives.
