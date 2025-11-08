@@ -71,12 +71,6 @@ This project addresses not just the classification task, but this fundamental **
 
 This project demonstrates that the future of clinical AI lies not in the number of models deployed, but in the strength of the governance frameworks that ensure their safety and efficacy. The winners in the race for digital diagnostics will be those who move beyond simply collecting data to building trust in their algorithms through rigorous validation, continuous monitoring, and clear accountability.
 
-Effective AI governance cannot be built by data scientists alone. This project was guided by the principle that "technology must be in service of care, not the other way around." This requires a team with:
-
-- The Clinician: Who understands the nuance of a chest X-ray and the real-world impact of a false negative.
-- The Data Scientist: Who can translate clinical requirements into robust algorithmic constraints.
-- The Ethicist (Implicit): Whose perspective ensures we interrogate the values and trade-offs embedded in our model's design.
-
 By building AI with this level of rigor, we move closer to creating assistive tools that clinicians can rely on with confidence. We reject the false dichotomy between innovation and safety. We can have both—but only if we choose it deliberately. When we successfully pair the radiologist's expertise with a well-governed algorithm, we don't just automate tasks—we build a diagnostic process that is smarter, more resilient, and truly ready for the complexities of modern medicine. That's not just good data science. It's good medicine.
 
 **For clinical leaders and data scientists:** The choice is clear. Establish governance frameworks before deployment, not after a failure. Treat AI systems with the same rigor you apply to any mission-critical diagnostic tool.
